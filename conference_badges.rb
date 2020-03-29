@@ -5,6 +5,7 @@ end
 
 def batch_badge_creator (present)
   badges = ["yas","bri", "netty", "dana"]
-  present.each do|badge|.push|badge|
+  present.each do|badge|
+  badges.push|badge|
   return "Hello, my name is #{name}."
 end
